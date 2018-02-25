@@ -27,3 +27,4 @@ Tentative methods to be looked into:
 |  <img src="https://github.com/samsonxian/Satellite-Image-Classification/blob/master/image/sample2-classified.jpg?raw=true" width="800"  /> 	||
 
 | red: water | magenta: land | blue: vegetation | yellow: tile |
+
