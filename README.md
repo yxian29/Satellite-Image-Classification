@@ -2,7 +2,7 @@
 
 A project to explore various satellite imagery classification techniques in remote sensing.
 
-Tentative methods to be looked into:
+Methods to be looked into: (Tentative)
 - Pixel-Based Classification
 - Object-Based (Obejct-Oriented) Image Analysis Classification
 - Machine Learning / Deep Learning based classification
